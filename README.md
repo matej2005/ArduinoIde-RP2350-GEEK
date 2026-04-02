@@ -30,4 +30,4 @@ How to get RP2350-GEEK with LCD working in Arduino IDE
   tft.setRotation(1);  // Landscape (Portrait + 90)
 ``` 
 
-In folder [RP2350-Demo](./RP2350-Demo/) you can find demo project and UF2 file in Releases
+In folder [RP2350-Demo](./RP2350-Demo/) you can find demo project and UF2 file in [Releases](https://github.com/matej2005/ArduinoIde-RP2350-GEEK/releases)
